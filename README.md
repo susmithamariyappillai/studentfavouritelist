@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Favourite Student List
 
 A React app demonstrating routing (React Router), global state with `useContext`,
@@ -64,6 +64,4 @@ npm run preview
   students, sections, or `FOLDER_COLORS`.
 - Colors and fonts are defined inline as design tokens at the top of each
   component file; change them there to re-theme the app.
-=======
-# studentfavouritelist
->>>>>>> fb2301ae133dc6a123074c2465a7f7fc9a0961b4
+
